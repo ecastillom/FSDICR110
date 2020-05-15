@@ -1,0 +1,2 @@
+# FSDICR110
+Deliver the competency report worked during classes.  The project consists of a Car rental system that:  - Allow the user to register new cars  - Shows the list of cars (catalog)  - Shows a page at /Home/About that shows the name of the student  - Order the cars by price (lowest first) (OPTIONAL)     Requirements:  - The backed is on ASP.Net Core 2 or greater  - SQLite it's used for database, and Entity Framework to access such database  - The front end is on Javascript (Jquery optional)  - The communication front end - API uses AJAX http request
